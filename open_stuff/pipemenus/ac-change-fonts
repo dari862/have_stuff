@@ -6,8 +6,8 @@
 ## Openbox Pipemenu to change fonts for various applications
 
 # Dir
-pdir="$HOME/.config/openbox/polybar"
-rdir="$HOME/.config/openbox/rofi"
+pdir="$HOME/.config/polybar"
+rdir="$HOME/.config/rofi"
 tdir="$HOME/.config/alacritty"
 odir="$HOME/.config/openbox"
 ddir="$HOME/.config/dunst"
