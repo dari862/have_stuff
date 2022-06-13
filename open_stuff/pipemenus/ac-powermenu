@@ -6,7 +6,7 @@
 ## Commands Executed By Openbox Powermenu
 
 ## Rofi #############################################
-DIR="$HOME/.config/openbox/rofi/dialogs"
+DIR="$HOME/.config/rofi/dialogs"
 MSG="Options  -  yes / y / no / n"
 
 cdialog () {
